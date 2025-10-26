@@ -36,12 +36,6 @@ const sanjeewa = {
 };
 ```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanjeewaRupasinghe/SanjeewaRupasinghe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanjeewaRupasinghe/SanjeewaRupasinghe/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SanjeewaRupasinghe/SanjeewaRupasinghe/output/github-contribution-grid-snake.svg">
-</picture>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Tech Stack
 
 <details open>
@@ -109,12 +103,6 @@ const sanjeewa = {
 
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanjeewaRupasinghe/SanjeewaRupasinghe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanjeewaRupasinghe/SanjeewaRupasinghe/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SanjeewaRupasinghe/SanjeewaRupasinghe/output/github-contribution-grid-snake.svg">
-</picture>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub Analytics
 
 <p align="center">
@@ -147,13 +135,7 @@ const sanjeewa = {
   </picture>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanjeewaRupasinghe/SanjeewaRupasinghe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanjeewaRupasinghe/SanjeewaRupasinghe/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SanjeewaRupasinghe/SanjeewaRupasinghe/output/github-contribution-grid-snake.svg">
-</picture>
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> What I Do
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"> What I Do
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -167,28 +149,6 @@ const sanjeewa = {
 - 💡 **Consulting** on tech solutions
 
 <br clear="right"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanjeewaRupasinghe/SanjeewaRupasinghe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanjeewaRupasinghe/SanjeewaRupasinghe/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SanjeewaRupasinghe/SanjeewaRupasinghe/output/github-contribution-grid-snake.svg">
-</picture>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SanjeewaRupasinghe&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=275896&text_color=ffffff&icon_color=0d2266"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=SanjeewaRupasinghe&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=0d2266&text_color=2f3542&icon_color=275896"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=SanjeewaRupasinghe&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=275896&text_color=ffffff&icon_color=0d2266" alt="GitHub Trophies"/>
-  </picture>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanjeewaRupasinghe/SanjeewaRupasinghe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanjeewaRupasinghe/SanjeewaRupasinghe/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SanjeewaRupasinghe/SanjeewaRupasinghe/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## 📫 Let's Connect
 
@@ -214,13 +174,14 @@ const sanjeewa = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2266,100:275896&height=100&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  
-  ### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
-  
+ 
   **⭐️ From [SanjeewaRupasinghe](https://github.com/SanjeewaRupasinghe) - Let's build something amazing together! 🚀**
-  
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_bg_color=0D1117&title_color=275896&quote_color=FFFFFF&author_color=275896&border_color=275896"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote_bg_color=FFFFFF&title_color=0d2266&quote_color=2f3542&author_color=275896&border_color=0d2266"/>
+  <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_bg_color=0D1117&title_color=275896&quote_color=FFFFFF&author_color=275896&border_color=275896"/>
+</picture>
+ 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2266,100:275896&height=100&section=footer" width="100%"/>
 </div>
